@@ -2,14 +2,14 @@
 	text-align: center;
 }
 
-.shape-top {
+.top-shape {
 	position: absolute;
 	right: 0;
 	width: 20vw;
 	z-index: -1;
 }
 
-.shape-bottom {
+.bottom-shape {
 	position: absolute;
 	bottom: 0;
 	width: 18vw;
