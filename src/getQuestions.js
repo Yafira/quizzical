@@ -11,7 +11,7 @@ const getQuestions = (gameOptions) => {
 
 	if (type !== '') typeQueryParam = `&type=${type}`
 
-	let apiUrl = `https://opentdb.com/api.php?amount=6${categoryQueryParam}${difficultyQueryParam}${typeQueryParam}`
+	let apiUrl = `https://opentdb.com/api.php?amount=5${categoryQueryParam}${difficultyQueryParam}${typeQueryParam}`
 
 	return fetch(apiUrl)
 		.then((res) => res.json())

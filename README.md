@@ -20,7 +20,7 @@
 
 [x] Two screens (start & questions)
 
-[x] Pull 5 questions from the OTDB API (I went with 6, no specific reason)
+[x] Pull 5 questions from the OTDB API
 <br> --> https://opentdb.com/
 
 [x] Tally correct answers after "Check answers" is clicked
