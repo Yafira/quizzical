@@ -47,8 +47,9 @@ const App = () => {
 						Answer the questions and test your knowledge!
 					</p>
 					<p className='game-description'>
-						Quizzical is a Trivia game where you score based on your answers.
-						Questions are being retrieved from the Open Trivia Database API.
+						<b>Quizzical</b> is a Trivia game where you score based on your
+						answers. <br></br>Questions are being retrieved from the Open Trivia
+						Database API.
 					</p>
 
 					{showNoQuestionsError && (

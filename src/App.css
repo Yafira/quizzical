@@ -48,8 +48,17 @@
 	transform: translate(-50%, -50%);
 }
 
-.game-text {
+.game-text,
+.game-description {
 	text-align: center;
+}
+
+.game-description {
+	border: #eea9d1 2px solid;
+	display: block;
+	padding: 20px;
+	align-items: center;
+	justify-content: space-around;
 }
 
 .gameOptions-container {
