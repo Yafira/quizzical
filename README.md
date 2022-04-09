@@ -34,9 +34,3 @@
 - CSS3<br>
 - JavaScript<br>
 - React<br>
-
----
-
-<br>
-
-![gif](quizzical.gif)
