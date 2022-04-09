@@ -1,8 +1,8 @@
 import { nanoid } from 'nanoid'
 import { decode } from 'html-entities'
-import '../components/Question.css'
-import tickIcon from '../assets/tick.svg'
-import crossIcon from '../assets/cross.svg'
+import '../Question/Question.css'
+import tickIcon from '../../assets/tick.svg'
+import crossIcon from '../../assets/cross.svg'
 
 const Question = (props) => {
 	const incorrectAnswersElements = props.incorrectAnswers.map((answer) => {

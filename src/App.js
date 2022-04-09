@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-import QuestionList from './components/QuestionList'
+import QuestionList from './components/QuestionList/QuestionList'
 import topShape from './assets/yellow-shape.png'
 import bottomShape from './assets/blue-shape.png'
 

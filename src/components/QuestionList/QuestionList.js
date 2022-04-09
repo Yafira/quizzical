@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import { nanoid } from 'nanoid'
-import '../components/QuestionList.css'
-import Question from '../components/Question'
-import getQuestions from '../getQuestions'
+import './QuestionList'
+import Question from '../Question/Question'
+import getQuestions from '../../getQuestions'
 
 const QuestionList = ({
 	gameOptions,
