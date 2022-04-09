@@ -18,14 +18,14 @@
 
 <h3><b>Requirements:</b></h3>
 
-[x] Two screens (start & questions)
+- [x] Two screens (start & questions)
 
-[x] Pull 5 questions from the OTDB API
-<br> --> https://opentdb.com/
+- [x] Pull 5 questions from the OTDB API
+      <br> --> https://opentdb.com/
 
-[x] Tally correct answers after "Check answers" is clicked
+- [x] Tally correct answers after "Check answers" is clicked
 
-[x] Style and polished
+- [x] Style and polished
 
 ---
 
