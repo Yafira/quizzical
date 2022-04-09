@@ -17,7 +17,7 @@
 
 ---
 
-<h3><b>Requirements:</b></h3>
+<h3>📋 <b>Requirements:</b></h3>
 
 - [x] Two screens (start & questions)
 
@@ -30,7 +30,7 @@
 
 ---
 
-<h3><b>Built with: </b></h3>
+<h3>🌐 <b>Built with: </b></h3>
 - HTML5<br>
 - CSS3<br>
 - JavaScript<br>
