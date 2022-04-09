@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { nanoid } from 'nanoid'
-// import './QuestionList.css'
+import '../components/QuestionList.css'
 import Question from '../components/Question'
 import getQuestions from '../getQuestions'
 

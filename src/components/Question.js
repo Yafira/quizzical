@@ -1,6 +1,6 @@
-// import './Question.css'
 import { nanoid } from 'nanoid'
 import { decode } from 'html-entities'
+import '../components/Question.css'
 import tickIcon from '../assets/tick.svg'
 import crossIcon from '../assets/cross.svg'
 
