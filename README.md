@@ -1,6 +1,7 @@
 # Quizzical, trivia quiz game
 
 - Quizzical is a trivia based quiz game where you score based on your answers. Questions are retrieved from the Open Trivia Database API.
+- This was the final solo project for Scrimba's React course with Bob Ziroll.
 
 ---
 
