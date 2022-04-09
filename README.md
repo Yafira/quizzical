@@ -1,6 +1,6 @@
 # Quizzical, trivia quiz game
 
-### Quizzical is a trivia based quiz game where you score based on your answers. Questions are retrieved from the Open Trivia Database API.
+- Quizzical is a trivia based quiz game where you score based on your answers. Questions are retrieved from the Open Trivia Database API.
 
 ---
 
