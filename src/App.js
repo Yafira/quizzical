@@ -43,13 +43,14 @@ const App = () => {
 			) : (
 				<section className='game-intro'>
 					<h1 className='game-title'>Quizzical</h1>
-					<p className='game-text'>
-						Answer the questions and test your knowledge!
-					</p>
+
 					<p className='game-description'>
 						<b>Quizzical</b> is a Trivia game where you score based on your
 						answers. <br></br>Questions are being retrieved from the Open Trivia
 						Database API.
+					</p>
+					<p className='game-text'>
+						Answer the questions and test your knowledge!
 					</p>
 
 					{showNoQuestionsError && (
