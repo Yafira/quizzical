@@ -54,7 +54,7 @@
 }
 
 .game-description {
-	border: #eea9d1 2px solid;
+	border: solid 1px #eea9d1;
 	display: block;
 	padding: 20px;
 	align-items: center;
