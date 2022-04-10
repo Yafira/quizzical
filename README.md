@@ -13,7 +13,7 @@
 ---
 
 <h3>⭐️ <b>Features:</b></h3>
-- Ability to pick a category, a difficulty level and type of questions you will like to answer<br>
+- Ability to pick a category, difficulty level and type of questions you will like to answer<br>
 
 ---
 
